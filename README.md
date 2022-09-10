@@ -15,7 +15,7 @@
 ## Introdução
 <p align=center>
   <a href="https://github.com/Leo0256">
-    <img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/Perfil.jpg"/>
+    <img width="300" src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/perfil.png"/>
   </a>
 </p>
 
@@ -37,7 +37,7 @@ Para o API do 1° Semestre (2020-2), o Prof. Antonio Egydio seguiu com o papel d
 ### Visão do Projeto
 
 <p align="center">
-  <img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/SharEduca.jpeg"/>
+  <img width="400" src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/SharEduca.jpeg"/>
 </p>
 
 O parceiro acadêmico deseja um site para a venda de conteúdos acadêmicos (ex.: livros, pdf), diferenciando-se de outros concorrentes por não vender cursos, apenas conteúdos de consulta e estudo.
