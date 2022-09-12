@@ -49,9 +49,9 @@ Como solução, foi desenvolvido o site SharEduca, uma plataforma de venda de co
 
 |Tecnologia|Como foi implementado|
 |-|:-|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/html-css.jpg" height="100"/>|Linguagem de marcação de texto utilizada para a estruturação das telas do sistema.|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/php.png" height="90"/>|Linguagem de estilização, definindo a aparência das telas.|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/mysql.png" height="90"/>|Linguagem de programação web, amplamente implementado nas operações back-end do sistema|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/html-css.jpg" height="100"/>|HTLM - Linguagem de marcação de texto utilizada para a estruturação das telas do sistema. <br> CSS - Linguagem de estilização, definindo a aparência das telas.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/php.png" height="90"/>|Linguagem de programação web, amplamente implementado nas operações back-end do sistema.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/mysql.png" height="90"/>|Sistema de gerenciamento de Banco de Dados para o armazenamento dos dados do sistema.|
 
 ### Contribuições Pessoais
 Contribui com o desenvolvimento do banco de dados, utilizando-se do MySQL, na parte de modelagem das tabelas, conexão e interação do sistema com os dados armazenados.
