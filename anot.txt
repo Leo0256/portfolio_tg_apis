@@ -1,0 +1,13 @@
+separar os projetos (e suas informações) separadas em readmes com links de navegação entre eles
+
+arranjar um meio de deixar o projeto escolhido mais explícito no readme inicial
+
+dale readmes!!
+
+ex.:
+sumário - introdução
+	- meus projetos
+	- - 1° semestre - descrição
+			- outras informações
+			- ...
+	- - ...
