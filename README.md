@@ -1,17 +1,17 @@
 # Leonardo Gustavo Ribeiro
 # Sumário
 
-- [Introdução](#leonardo-gustavo-ribeiro)
-- [Meus Projetos](#meus-projetos)
-  - [Em 2020-2 / 1° Semestre](#em-2020-2-1-semestre)
-  - [Em 2021-1 / 2° Semestre](#em-2021-1-2-semestre)
-  - [Em 2021-2 / 3° Semestre](#em-2021-2-3-semestre)
-  - [Em 2022-1 / 4° Semestre](#em-2022-1-4-semestre)
-  - [Em 2022-2 / 5° Semestre](#em-2022-2-5-semestre)
-  - [Em 2023-1 / 6° Semestre](#em-2023-1-6-semestre)
-- [Outras Informações](#outras-informações)
-  - [Meus Principais Conhecimentos](#meus-principais-conhecimentos)
-  - [Contatos](#contatos)
+- [Introdução](#introdução)
+- [Meus Projetos](https://github.com/Leo0256/portfolio_tg_apis/blob/main/projects/README.md#meus-projetos)
+  - [Em 2020-2 / 1° Semestre](https://github.com/Leo0256/portfolio_tg_apis/blob/main/projects/semestre1.md#em-2020-2--1-semestre)
+  - [Em 2021-1 / 2° Semestre](https://github.com/Leo0256/portfolio_tg_apis/blob/main/projects/semestre2.md#em-2021-1--2-semestre)
+  - [Em 2021-2 / 3° Semestre](https://github.com/Leo0256/portfolio_tg_apis/blob/main/projects/semestre3.md#em-2021-2--3-semestre)
+  - [Em 2022-1 / 4° Semestre](https://github.com/Leo0256/portfolio_tg_apis/blob/main/projects/semestre4.md#em-2022-1--4-semestre)
+  - [Em 2022-2 / 5° Semestre](https://github.com/Leo0256/portfolio_tg_apis/blob/main/projects/semestre5.md#em-2022-2--5-semestre)
+  - [Em 2023-1 / 6° Semestre](https://github.com/Leo0256/portfolio_tg_apis/blob/main/projects/semestre6.md#em-2023-1--6-semestre)
+- [Outras Informações](https://github.com/Leo0256/portfolio_tg_apis/blob/main/info.md#outras-informa%C3%A7%C3%B5es)
+  - [Meus Principais Conhecimentos](https://github.com/Leo0256/portfolio_tg_apis/blob/main/info.md#meus-principais-conhecimentos)
+  - [Contatos](https://github.com/Leo0256/portfolio_tg_apis/blob/main/info.md#contatos)
 
 ## Introdução
 <p align=center>
