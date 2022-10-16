@@ -28,4 +28,4 @@ Chamo-me Leonardo - 20 anos de idade, nascido em São José dos Campos, São Pau
 Técnico em Desenvolvimento de Sistemas, pela Etec Prof.ª Ilza Nascimento Pintus, São José dos Campos (2019 - 2020);
 
 ### Experiência
-Atualmente estagiando na [M&F - Soluções em Tecnologia](http://www.mfinformatica.com/) como desenvolvedor de software.
+Atualmente estagiando na [M&F - Soluções em Tecnologia](http://www.mfinformatica.com/) como desenvolvedor de software, sendo esta a minha primeira experiência de trabalho.

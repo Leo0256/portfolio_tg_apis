@@ -7,10 +7,9 @@
 Para o API do 2° Semestre (2021-1), a empresa parceira foi a [GSW Soluções Integradas](https://www.gsw.com.br/ "GSW") para o desenvolvimento do projeto.
 
 ## Visão do Projeto
+A empresa parceira deseja uma aplicação para a análise de dados dos seus projetos em andamento, unificados em um dashboard, integrando diferentes fontes utilizadas para o gerenciamento de seus projetos (Trello e JIRA), a fim de auxiliar o diretor responsável no gerenciamento deles.
 
-> o problema
-
-> a solução
+Como solução, foi desenvolvido uma aplicação desktop Windows que apresenta os dados dos projetos, vindos de um arquivo JSON pelo gerenciador de projetos (Trello ou JIRA), os estruturando em diferentes abordagens para a melhor tomada de decisão do diretor responsável.
 
 ## Tecnologias Utilizadas
 
@@ -27,10 +26,18 @@ Contribui com o desenvolvimento do banco de dados (MySQL), na parte de modelagem
 
 ### Hard Skills
 - Modelagem de DB MySQL: Sei fazer com autonomia.
-- Programação em C#/.NET: Sei fazer com autonomia.
+- Programação em C#/.NET: Sei fazer com ajuda.
 - Programação XAML: Sei fazer com ajuda.
 
 ### Soft Skills
 - Flexibilidade: Para de adaptar aos obstáculos que surgiram para a resolução do problema.
+
+    A equipe possuia dificuldades quanto a acompanhar as aulas junto de desenvolver o projeto (devido ao ambiente EAD, em meio à pandemia do COVID-19), sendo necessário a adptação às dificuldades que surgiram.
+
 - Autodidatismo: Afim de solucionar o problema apresentado, foi necessário buscar e aprender novas tecnologias ao longo do projeto.
+
+    Para desenvolver o projeto, foi utilizada uma tecnologia que eu havia pouco conhecimento (C#/.NET), sendo essencial aprender mais sobre ela, para a conclusão do projeto.
+
 - Proatividade: Determinação para seguir na linha de frente, tomando a iniciativa no desenvolvimento do projeto.
+
+    Como a equipe estava com dificuldades de acompanhar o andamento do projeto, tomei a frente no desenvolvimento do sistema.

@@ -35,5 +35,13 @@ Também auxiliei e desenvolvi o backend do sistema, feito com o PHP.
 
 ### Soft Skills
 - Flexibilidade: Para de adaptar aos obstáculos que surgiram para a resolução do problema.
+
+  Devido a ser o 1° semestre do curso, haviam poucos que tiveram algum contato prévio com programação - sendo eu um desses - e tive de me adaptar a novas abordagens quanto ao desenvolvimento do projeto a fim de resolucionar o problema proposto.
+
 - Autodidatismo: Afim de solucionar o problema apresentado, foi necessário buscar e aprender novas tecnologias ao longo do projeto.
+
+  Já possuia algum conhecimento com a linguagem utilizada (PHP) de cursos antes realizados, mas o projeto exigia o uso de APIs e outras tecnologias que não me eram familiares, sendo necessário buscar e aprender mais a respeito.
+
 - Proatividade: Determinação para seguir na linha de frente, tomando a iniciativa no desenvolvimento do projeto.
+
+  Retornando ao caso de haver poucos com algum conhecimento de programação, eu tive de tomar a frente no desenvolvimento do projeto, tanto com a criação do sistema, quanto com o auxilio aos demais membros da equipe.
