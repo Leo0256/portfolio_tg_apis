@@ -9,9 +9,9 @@
   - [Em 2022-1 / 4° Semestre](https://github.com/Leo0256/portfolio_tg_apis/blob/main/projects/semestre4.md#em-2022-1--4-semestre)
   - [Em 2022-2 / 5° Semestre](https://github.com/Leo0256/portfolio_tg_apis/blob/main/projects/semestre5.md#em-2022-2--5-semestre)
   - [Em 2023-1 / 6° Semestre](https://github.com/Leo0256/portfolio_tg_apis/blob/main/projects/semestre6.md#em-2023-1--6-semestre)
-- [Outras Informações](https://github.com/Leo0256/portfolio_tg_apis/blob/main/info.md#outras-informa%C3%A7%C3%B5es)
-  - [Meus Principais Conhecimentos](https://github.com/Leo0256/portfolio_tg_apis/blob/main/info.md#meus-principais-conhecimentos)
-  - [Contatos](https://github.com/Leo0256/portfolio_tg_apis/blob/main/info.md#contatos)
+- [Outras Informações](#outras-informa%C3%A7%C3%B5es)
+  - [Meus Principais Conhecimentos](#meus-principais-conhecimentos)
+  - [Contatos](#contatos)
 
 ## Introdução
 <p align=center>
@@ -29,3 +29,12 @@ Técnico em Desenvolvimento de Sistemas, pela Etec Prof.ª Ilza Nascimento Pintu
 
 ### Experiência
 Atualmente estagiando na [M&F - Soluções em Tecnologia](http://www.mfinformatica.com/) como desenvolvedor de software, sendo esta a minha primeira experiência de trabalho.
+
+## Outras Informações
+### Meus Principais Conhecimentos
+Atualmente sei desenvolver projétos em React/React Native, HTML/CSS/JavaScript e Java, 
+
+Atualmente sei desenvolver projetos nas linguagens JavaScript e Java, tendo também conhecimento em React/React Native, HTML/CSS, MySQL, MongoDB e Git.
+
+### Contatos
+[![](https://img.shields.io/badge/Github-white?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/Leo0256 "Meu Perfil no Github") [![](https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/leonardo-gustavo-ribeiro-ba23831b6/ "Meu Perfil no LinkedIn")
