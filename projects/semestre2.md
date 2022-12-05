@@ -6,6 +6,8 @@
 ## Empresa Parceira
 Para o API do 2° Semestre (2021-1), a empresa parceira foi a [GSW Soluções Integradas](https://www.gsw.com.br/ "GSW") para o desenvolvimento do projeto.
 
+Sendo uma empresa especializada em gerar soluções para o gerenciamento, controle de processos e negócios, a **GSW** foi fundada em 1991, uma empresa nacional com matriz localizada em São José dos Campos, além de outras unidades dispersas em vários estados do Brasil.
+
 ## Visão do Projeto
 A empresa parceira deseja uma aplicação para a análise de dados dos seus projetos em andamento, unificados em um dashboard, integrando diferentes fontes utilizadas para o gerenciamento de seus projetos (Trello e JIRA), a fim de auxiliar o diretor responsável no gerenciamento deles.
 

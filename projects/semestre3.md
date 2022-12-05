@@ -4,7 +4,9 @@
 # Em 2021-2 / 3° Semestre
 
 ## Empresa Parceira
-Para o API do 3° Semestre (2021-2), a empresa parceira foi a [IonicHealth](https://pt-br.ionic.health/ "IonicHealth") para o desenvolvimento do projeto.
+Para o API do 3° Semestre (2021-2), a empresa parceira foi a [IONIC Health](https://pt-br.ionic.health/ "IONIC Health") para o desenvolvimento do projeto.
+
+Advinda da NESS Technology (1991), e depois se separando em três empresas distintas (2017), surgiu a NESS Health (2019), se integrando à _"Jornada Digital do Paciente"_, desenvolvendo soluções que automatizam, monitoram e teleoperam equipamentos clínicos. Só foi em 2020/2021 que a empresa foi rebatizada para **IONIC Health**.
 
 ## Visão do Projeto
 
