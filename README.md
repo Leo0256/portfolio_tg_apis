@@ -22,7 +22,7 @@
 
 *Hi, there.:v:*
 
-Chamo-me Leonardo - 20 anos de idade, nascido em São José dos Campos, São Paulo - sou estudante do 5° Semestre no curso de Análise e Desenvolvimento de Sistemas na [FATEC Prof.º Jessen Vidal, São José dos Campos](https://fatecsjc-prd.azurewebsites.net/);
+Chamo-me Leonardo - 20 anos de idade, nascido em São José dos Campos, São Paulo - sou estudante do 6° Semestre no curso de Análise e Desenvolvimento de Sistemas na [FATEC Prof.º Jessen Vidal, São José dos Campos](https://fatecsjc-prd.azurewebsites.net/);
 
 ### Formação Acadêmica
 Técnico em Desenvolvimento de Sistemas, pela Etec Prof.ª Ilza Nascimento Pintus, São José dos Campos (2019 - 2020);
@@ -32,7 +32,7 @@ Atualmente estagiando na [M&F - Soluções em Tecnologia](http://www.mfinformati
 
 ## Outras Informações
 ### Meus Principais Conhecimentos
-Atualmente sei desenvolver projétos em React/React Native, HTML/CSS/JavaScript e Java, 
+Atualmente sei desenvolver projetos em React/React Native, HTML/CSS/JavaScript e Java.
 
 Atualmente sei desenvolver projetos nas linguagens JavaScript e Java, tendo também conhecimento em React/React Native, HTML/CSS, MySQL, MongoDB e Git.
 
