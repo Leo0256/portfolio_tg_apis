@@ -9,7 +9,7 @@ Para o API do 6° Semestre (2023-1), a empresa parceira para o desenvolvimento d
 ## Visão do Projeto
 
 <p align="center">
-  <img width="400" src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/SeeTax.png"/>
+  <img width="600" src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/SeeTax.png"/>
 </p>
 
 A empresa parceira deseja uma ferramenta de comparação 
