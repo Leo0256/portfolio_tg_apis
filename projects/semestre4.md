@@ -26,10 +26,10 @@ Como solução, foi desenvolvido o app SrSoja, um aplicativo mobile para o auxil
 
 |Tecnologia|Como foi implemetado|
 |:-:|:-|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/react.png" height="100"/>|Biblioteca de Javascript, utilizada para o desenvolvimento do app mobile (React Native).|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/js.png" height="100"/>|Linguagem de Programação em scripts, utilizada tanto no desenvolvimento do app mobile, quanto no servidor.|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/postgresql.png" height="100"/>|Sistema de gerenciamento de Banco de Dados para o armazenamento dos dados em núvem (online).|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/sqlite.png" height="100"/>|Biblioteca em Linguagem C para o armazenamento dos dados localmente.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/react.png" height="100" title="React Native"/>|Biblioteca de Javascript, utilizada para o desenvolvimento do app mobile (React Native).|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/js.png" height="100" title="JavaScript"/>|Linguagem de Programação em scripts, utilizada tanto no desenvolvimento do app mobile, quanto no servidor.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/postgresql.png" height="100" title="PostgreSQL"/>|Sistema de gerenciamento de Banco de Dados para o armazenamento dos dados em núvem (online).|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/sqlite.png" height="100" title="SQLite"/>|Biblioteca em Linguagem C para o armazenamento dos dados localmente.|
 
 ## Contribuições Pessoais
 Contribui com o desenvolvimento do banco de dados (PostgreSQL/SQLite) e do servidor (JavaScript), além de auxiliar no desenvolvimento das funcionalidades em back-end do aplicativo (React Native).

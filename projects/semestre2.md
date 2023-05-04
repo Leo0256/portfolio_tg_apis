@@ -19,9 +19,9 @@ Como solução, foi desenvolvido uma aplicação desktop Windows que apresenta o
 
 |Tecnologia|Como foi implemetado|
 |:-:|:-|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/c-sharp.png" height="100"/>|Linguagem de programação POO, parte do framework .NET, utilizado nas operações de back-end|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/xaml.png" height="100"/>|Linguagem de marcação de texto, também parte do framework .NET, utilizada para a estruturação e estilizamento das telas do sistema.|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/mysql.png" height="90"/>|Sistema de gerenciamento de Banco de Dados para o armazenamento dos dados do sistema.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/c-sharp.png" height="100" title="C#"/>|Linguagem de programação POO, parte do framework .NET, utilizado nas operações de back-end|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/xaml.png" height="100" title="XAML"/>|Linguagem de marcação de texto, também parte do framework .NET, utilizada para a estruturação e estilizamento das telas do sistema.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/mysql.png" height="90" title="MySQL"/>|Sistema de gerenciamento de Banco de Dados para o armazenamento dos dados do sistema.|
 
 ## Contribuições Pessoais
 Contribui com o desenvolvimento do banco de dados (MySQL), na parte de modelagem das tabelas, e back-end (C#), com o tratamento dos dados para o front-end. Também auxiliei no desenvolvimento do front-end (XAML).

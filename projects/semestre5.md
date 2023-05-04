@@ -22,9 +22,9 @@ Como solução, foi desenvolvido o app Ocorrências Públicas (OP), um aplicativ
 
 |Tecnologia|Como foi implemetado|
 |:-:|:-|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/react.png" height="100"/>|Biblioteca de Javascript, utilizada para o desenvolvimento do app mobile (React Native).|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/js.png" height="100"/>|Linguagem de Programação em scripts, utilizada tanto no desenvolvimento do app mobile, quanto no servidor.|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/mongodb.png" height="80"/>|Sistema de Banco de Dados NoSQL para o armazenamento dos dados do sistema.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/react.png" height="100" title="React Native"/>|Biblioteca de Javascript, utilizada para o desenvolvimento do app mobile (React Native).|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/js.png" height="100" title="JavaScript"/>|Linguagem de Programação em scripts, utilizada tanto no desenvolvimento do app mobile, quanto no servidor.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/mongodb.png" height="80" title="MongoDB"/>|Sistema de Banco de Dados NoSQL para o armazenamento dos dados do sistema.|
 
 ## Contribuições Pessoais
 Contribui com o desenvolvimento do banco de dados (MongoDB), do servidor (JavaScript), além de auxiliar e desenvolver algumas das funcionalidades em back-end do aplicativo (React Native).

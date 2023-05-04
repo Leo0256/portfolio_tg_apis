@@ -24,9 +24,9 @@ Como solução, foi desenvolvido o sistema IoniCRM, uma plataforma web que ofere
 
 |Tecnologia|Como foi implemetado|
 |:-:|:-|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/c-sharp.png" height="100"/>|Linguagem de programação POO, parte do framework ASP.NET, utilizado nas operações de back e front|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/html-css.jpg" height="100"/>|HTLM - Linguagem de marcação de texto utilizada para a estruturação das telas do sistema. <br> CSS - Linguagem de estilização, definindo a aparência das telas.|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/postgresql.png" height="90"/>|Sistema de gerenciamento de Banco de Dados para o armazenamento dos dados do sistema.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/c-sharp.png" height="100" title="C#"/>|Linguagem de programação POO, parte do framework ASP.NET, utilizado nas operações de back e front|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/html-css.jpg" height="100" title="HTML/CSS"/>|HTLM - Linguagem de marcação de texto utilizada para a estruturação das telas do sistema. <br> CSS - Linguagem de estilização, definindo a aparência das telas.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/postgresql.png" height="90" title="PostgreSQL"/>|Sistema de gerenciamento de Banco de Dados para o armazenamento dos dados do sistema.|
 
 ## Contribuições Pessoais
 Contribui com o desenvolvimento do banco de dados (PostgreSQL) e do back-end (C#), com o tratamento dos dados para o front-end e afins, além de auxiliar no desenvolvimento do layout, na parte de estruturação do HTML/CSS.

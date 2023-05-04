@@ -24,11 +24,11 @@ Como solução, foi desenvolvido o sistema SeeTax, uma plataforma web que dispon
 
 |Tecnologia|Como foi implemetado|
 |:-:|:-|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/vue.js.png" height="100"/>|Framework de Javascript, utilizado para o desenvolvimento das interfaces do sistema.|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/typescript.png" height="100"/>|Linguagem de Programação em scripts, superconjunto sintático do Javascript, utilizado no desenvolvimento da interfaces em conjunto do Vue.js.|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/spring-boot.png"/>|Framework do Java, utilizado no desenvolvimento do servidor back-end.|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/java.png" height="120"/>|Linguagem de programação POO, utilizado no desenvolvimento do servidor back-end.|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/python.png" height="120"/>|Linguagem de programação, utilizado na modelagem de dados e treinamento da IA aplicada no sistema.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/vue.js.png" height="100" title="Vue.js"/>|Framework de Javascript, utilizado para o desenvolvimento das interfaces do sistema.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/typescript.png" height="100" title="TypeScript"/>|Linguagem de Programação em scripts, superconjunto sintático do Javascript, utilizado no desenvolvimento da interfaces em conjunto do Vue.js.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/spring-boot.png" title="Spring Boot"/>|Framework do Java, utilizado no desenvolvimento do servidor back-end.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/java.png" height="120" title="Java"/>|Linguagem de programação POO, utilizado no desenvolvimento do servidor back-end.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/python.png" height="120" title="Python"/>|Linguagem de programação, utilizado na modelagem de dados e treinamento da IA aplicada no sistema.|
 
 ## Contribuições Pessoais
 Contribui com o desenvolvimento do servidor back-end (Java e Spring Boot) e do banco de dados (MySQL).
