@@ -36,3 +36,7 @@ Atualmente sei desenvolver projetos nas linguagens JavaScript, tendo também con
 
 ### Contatos
 [![](https://img.shields.io/badge/Github-white?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/Leo0256 "Meu Perfil no Github") [![](https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/leonardo-gustavo-ribeiro-ba23831b6/ "Meu Perfil no LinkedIn")
+
+<p align=center>
+  <a href="#leonardo-gustavo-ribeiro">:arrow_up_small: Voltar ao início :arrow_up_small:</a>
+</p>

@@ -43,3 +43,7 @@ Contribui com o desenvolvimento do banco de dados (PostgreSQL/SQLite) e do servi
 - Flexibilidade: Para de adaptar aos obstáculos que surgiram para a resolução do problema.
 
     Houve diversos atrasos e complicações quanto ao desenvolvimento do app e gerenciamento do tempo, tornando-se necessário buscar e asentar a resolução dos problemas advindos.
+
+<p align=center>
+  <a href="#em-2022-1--4-semestre">:arrow_up_small: Voltar ao início :arrow_up_small:</a>
+</p>

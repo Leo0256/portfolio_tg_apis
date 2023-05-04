@@ -42,3 +42,7 @@ Contribui com o desenvolvimento do servidor back-end (Java e Spring Boot) e do b
 - Autodidatismo: Afim de solucionar o problema apresentado, foi necessário buscar e aprender novas tecnologias ao longo do projeto.
 
   Como a Open Finance Brasil é algo relativamente recente, a disponibilidade dos dados - assim como suas aplicações - são bem escassas, se fazendo necessário procurar e aprender a como obter e usar os dados necessários.
+
+<p align=center>
+  <a href="#em-2023-1--6-semestre">:arrow_up_small: Voltar ao início :arrow_up_small:</a>
+</p>

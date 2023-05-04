@@ -43,3 +43,7 @@ Contribui com o desenvolvimento do banco de dados (MySQL), na parte de modelagem
 - Proatividade: Determinação para seguir na linha de frente, tomando a iniciativa no desenvolvimento do projeto.
 
     Como a equipe estava com dificuldades de acompanhar o andamento do projeto, tomei a frente no desenvolvimento do sistema.
+
+<p align=center>
+  <a href="#em-2021-1--2-semestre">:arrow_up_small: Voltar ao início :arrow_up_small:</a>
+</p>

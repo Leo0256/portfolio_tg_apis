@@ -44,3 +44,7 @@ Contribui com o desenvolvimento do banco de dados (PostgreSQL) e do back-end (C#
 - Proatividade: Determinação para seguir na linha de frente, tomando a iniciativa no desenvolvimento do projeto.
 
     Como a equipe estava com dificuldades de acompanhar o andamento do projeto, tomei a frente no desenvolvimento do sistema, além de auxiliar na organização da equipe.
+
+<p align=center>
+  <a href="#em-2021-2--3-semestre">:arrow_up_small: Voltar ao início :arrow_up_small:</a>
+</p>

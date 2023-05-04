@@ -45,3 +45,7 @@ Também auxiliei e desenvolvi o backend do sistema, feito com o PHP.
 - Proatividade: Determinação para seguir na linha de frente, tomando a iniciativa no desenvolvimento do projeto.
 
   Retornando ao caso de haver poucos com algum conhecimento de programação, eu tive de tomar a frente no desenvolvimento do projeto, tanto com a criação do sistema, quanto com o auxilio aos demais membros da equipe.
+
+<p align=center>
+  <a href="#em-2020-2--1-semestre">:arrow_up_small: Voltar ao início :arrow_up_small:</a>
+</p>
