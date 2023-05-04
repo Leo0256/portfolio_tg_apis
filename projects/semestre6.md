@@ -4,7 +4,7 @@
 # Em 2023-1 / 6° Semestre
 
 ## Empresa Parceira
-Para o API do 6° Semestre (2023-1), a empresa parceira para o desenvolvimento do projeto foi [uma instituição de serviços financeiros]...
+Para o API do 6° Semestre (2023-1), a empresa parceira para o desenvolvimento do projeto foi uma instituição de serviços financeiros.
 
 ## Visão do Projeto
 
@@ -26,9 +26,9 @@ Como solução, foi desenvolvido o sistema SeeTax, uma plataforma web que dispon
 |:-:|:-|
 |<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/vue.js.png" height="100"/>|Framework de Javascript, utilizado para o desenvolvimento das interfaces do sistema.|
 |<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/typescript.png" height="100"/>|Linguagem de Programação em scripts, superconjunto sintático do Javascript, utilizado no desenvolvimento da interfaces em conjunto do Vue.js.|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/spring-boot.png" height="100"/>|Framework do Java, utilizado no desenvolvimento do servidor back-end.|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/java.png" height="100"/>|Linguagem de programação POO, utilizado no desenvolvimento do servidor back-end.|
-|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/python.png" height="100"/>|Linguagem de programação, utilizado na modelagem de dados e treinamento da IA aplicada no sistema.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/spring-boot.png"/>|Framework do Java, utilizado no desenvolvimento do servidor back-end.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/java.png" height="120"/>|Linguagem de programação POO, utilizado no desenvolvimento do servidor back-end.|
+|<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/python.png" height="120"/>|Linguagem de programação, utilizado na modelagem de dados e treinamento da IA aplicada no sistema.|
 
 ## Contribuições Pessoais
 
