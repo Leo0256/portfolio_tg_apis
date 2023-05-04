@@ -31,7 +31,14 @@ Como solução, foi desenvolvido o sistema SeeTax, uma plataforma web que dispon
 |<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/python.png" height="120"/>|Linguagem de programação, utilizado na modelagem de dados e treinamento da IA aplicada no sistema.|
 
 ## Contribuições Pessoais
+Contribui com o desenvolvimento do servidor back-end (Java e Spring Boot) e do banco de dados (MySQL).
 
 ### Hard Skills
+- Modelagem de DB MySQL: Sei fazer com autonomia.
+- Desenvolvimento em Spring Boot (Java): Sei fazer com ajuda.
+- Programação em Java: Sei fazer com ajuda.
 
 ### Soft Skills
+- Autodidatismo: Afim de solucionar o problema apresentado, foi necessário buscar e aprender novas tecnologias ao longo do projeto.
+
+  Como a Open Finance Brasil é algo relativamente recente, a disponibilidade dos dados - assim como suas aplicações - são bem escassas, se fazendo necessário procurar e aprender a como obter e usar os dados necessários.
