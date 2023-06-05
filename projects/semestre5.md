@@ -14,7 +14,7 @@ Para o API do 5° Semestre (2022-2), o Prof. Gerson da Penha Neto seguiu com o p
 
 O parceiro acadêmico deseja um aplicativo mobile para coleta de dados públicos, de acordo com o conceito _citizens sensors_, para auxilio da secretaria de obras e serviços públicos.
 
-Como solução, foi desenvolvido o app Ocorrências Públicas (OP), um aplicativo mobile que possibilita o cidadão a informar os problemas em sua cidade (ex.: árvores caidas, rua esburacada, poste de luz queimado, etc.), permitindo o registro de ocorrências junto de localização em mapa e foto, além visualizar outros casos pela sua cidade.
+Como solução, foi desenvolvido o app Ocorrências Públicas (OP), um aplicativo mobile que possibilita o cidadão a informar os problemas em sua cidade (ex.: árvores caídas, rua esburacada, poste de luz queimado, etc.), permitindo o registro de ocorrências junto de localização em mapa e foto, além visualizar outros casos pela sua cidade.
 
 ## Tecnologias Utilizadas
 
@@ -27,7 +27,7 @@ Como solução, foi desenvolvido o app Ocorrências Públicas (OP), um aplicativ
 |<img src="https://github.com/Leo0256/portfolio_tg_apis/blob/main/images/mongodb.png" height="80" title="MongoDB"/>|Sistema de Banco de Dados NoSQL para o armazenamento dos dados do sistema.|
 
 ## Contribuições Pessoais
-Contribui com o desenvolvimento do banco de dados (MongoDB), do servidor (JavaScript), além de auxiliar e desenvolver algumas das funcionalidades em back-end do aplicativo (React Native).
+Contribui com o desenvolvimento do banco de dados (MongoDB), do servidor da aplicação (JavaScript), além de auxiliar e desenvolver algumas das funcionalidades em back-end do aplicativo (React Native).
 
 ### Hard Skills
 - Banco de Dados NoSQL MongoDB: Sei fazer com ajuda.
@@ -37,7 +37,7 @@ Contribui com o desenvolvimento do banco de dados (MongoDB), do servidor (JavaSc
 ### Soft Skills
 - Proatividade: Determinação para seguir na linha de frente, tomando a iniciativa no desenvolvimento do projeto.
 
-    Devido a creascente quantidade de trabalhos da faculdade que surgiam pelo semestre, tomei a frente no desenvolvimento do servidor e do banco de dados para agilixar boa parte do projeto.
+    Devido a crescente quantidade de trabalhos da faculdade que surgiam pelo semestre, tomei a frente no desenvolvimento do servidor e do banco de dados para agilixar boa parte do projeto.
 
 <p align=center>
   <a href="#em-2022-2--5-semestre">:arrow_up_small: Voltar ao início :arrow_up_small:</a>
