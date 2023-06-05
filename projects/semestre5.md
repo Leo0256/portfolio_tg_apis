@@ -37,7 +37,7 @@ Contribui com o desenvolvimento do banco de dados (MongoDB), do servidor da apli
 ### Soft Skills
 - Proatividade: Determinação para seguir na linha de frente, tomando a iniciativa no desenvolvimento do projeto.
 
-    Devido a crescente quantidade de trabalhos da faculdade que surgiam pelo semestre, tomei a frente no desenvolvimento do servidor e do banco de dados para agilixar boa parte do projeto.
+    Devido a crescente quantidade de trabalhos da faculdade que surgiam pelo semestre, tomei a frente no desenvolvimento do servidor e do banco de dados para agilizar boa parte do projeto.
 
 <p align=center>
   <a href="#em-2022-2--5-semestre">:arrow_up_small: Voltar ao início :arrow_up_small:</a>
