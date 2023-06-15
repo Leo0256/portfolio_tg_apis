@@ -20,7 +20,7 @@ Como solução, foi desenvolvido o sistema SeeTax, uma plataforma web que dispon
 
 ## Tecnologias Utilizadas
 
-[Repositório do Github](https://github.com/Sarah781/API-6-SeeTax)
+[Repositório do Github](https://github.com/Leo0256/API-6-SeeTax)
 
 |Tecnologia|Como foi implemetado|
 |:-:|:-|

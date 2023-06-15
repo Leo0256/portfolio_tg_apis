@@ -18,7 +18,7 @@ Como solução, foi desenvolvido o app Ocorrências Públicas (OP), um aplicativ
 
 ## Tecnologias Utilizadas
 
-[Repositório do Github](https://github.com/Jonathan-Assis/API-5-OP-2022-2)
+[Repositório do Github](https://github.com/Leo0256/API-5-OP-2022-2)
 
 |Tecnologia|Como foi implemetado|
 |:-:|:-|
