@@ -20,7 +20,7 @@
   </a>
 </p>
 
-*Hi, there.:v:*
+*Hello there.:vulcan_salute:*
 
 Chamo-me Leonardo - 20 anos de idade, nascido em São José dos Campos, São Paulo - sou estudante do 6° Semestre no curso de Análise e Desenvolvimento de Sistemas na [FATEC Prof.º Jessen Vidal, São José dos Campos](https://fatecsjc-prd.azurewebsites.net/);
 
